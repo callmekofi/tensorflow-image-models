@@ -40,7 +40,7 @@ To load pretrained weights, `timm` needs to be installed separately.
 
 ### Creating models
 
-To load pretrained models use
+To load pretrained models use:
 
 ```python
 import tfimm
