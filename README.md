@@ -179,7 +179,6 @@ The following architectures are currently available:
     [\[arXiv:2106:05237\]](https://arxiv.org/abs/2106.05237)
 
 ## Profiling
-
 To understand how big each of the models is, I have done some profiling to measure
 - maximum batch size that fits in GPU memory and
 - throughput in images/second
