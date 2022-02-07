@@ -26,6 +26,7 @@ This work would not have been possible wihout Ross Wightman's `timm` library and
 work on PyTorch/TensorFlow interoperability in HuggingFace's `transformer` repository.
 I tried to make sure all source material is acknowledged. Please let me know if I have
 missed something.
+
 ## Usage
 
 ### Installation 
